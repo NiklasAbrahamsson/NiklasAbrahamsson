@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Remix
 - 💖 Founder of official Remix group in Uppsala, Sweden
-- 💼 Contributer to <a href="https://youarerad.org/">youarerad.org</a>
+- 💼 Contributor to <a href="https://youarerad.org/">youarerad.org</a>
 - 👯 I’m looking to collaborate on anything that's exciting, send me a message and we will discuss
 - 📫 How to reach me: Niklas.Abrahamsson@me.com
 - Find me on Twitter: <a href="https://twitter.com/Niklasabrahams2">Niklas Abrahamsson</a>
