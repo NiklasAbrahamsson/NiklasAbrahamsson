@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Remix
+- 👯 I’m looking to collaborate on anything that's exciting, send me a message and we will discuss
+- 📫 How to reach me: Niklas.Abrahamsson@me.com
 <!--
 **NiklasAbrahamsson/NiklasAbrahamsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
