@@ -4,7 +4,7 @@
 - 💼 Contributor to <a href="https://youarerad.org/">youarerad.org</a>
 - 👯 I’m looking to collaborate on anything that's exciting, send me a message and we will discuss
 - 📫 How to reach me: Niklas.Abrahamsson@me.com
-- Find me on Twitter: <a href="https://twitter.com/Niklasabrahams2">Niklas Abrahamsson</a>
+- Find me on Twitter: <a href="https://twitter.com/Niab91">Niklas Abrahamsson</a>
 - Or Linkedin: <a href="https://www.linkedin.com/in/niklas-abrahamsson-1aab7585/">Niklas Abrahamsson<a/>
 <!--
 **NiklasAbrahamsson/NiklasAbrahamsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
