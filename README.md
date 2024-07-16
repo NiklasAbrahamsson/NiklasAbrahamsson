@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Remix
 - 💖 Founder of official <a href="https://www.meetup.com/remix_run-uppsala/" >Remix group in Uppsala, Sweden </a>
-- 💼 Contributor to <a href="https://youarerad.org/">youarerad.org</a>
+- 💼 Founder of Evently to <a href="https://evently.se/">evently.se</a>
 - ✨ Program committee of <a href="https://remixconf.eu">Remix Conference Europe</a>
 - ✨ Program committee of <a href="https://jsnation.com">JSNation</a>
 - 👯 I’m looking to collaborate on anything that's exciting, send me a message and we will discuss
